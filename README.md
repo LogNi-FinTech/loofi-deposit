@@ -8,7 +8,7 @@ Deposit Product Management for any fintech company
 - Deposit lifecycle management
 - Premature closure
 - Compound management
-- Accrue calculator
+- Accrue interest calculation
 - On maturity posting
 - Day End process, Month End, Quarter,Half Yearly, Yearly
 - Renewal
